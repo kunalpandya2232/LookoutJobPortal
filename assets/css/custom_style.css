@@ -1,0 +1,15 @@
+.hiddenUrl{
+    display:none;
+    visibility: hidden;
+}
+label.error, label.email_error{
+    color:red;
+    font-weight: bolder;
+    font-size: 12px;
+}
+h3.my-profile-h3,h4.my-profile-h4{
+    color:rgb(199,20,20)!important;
+}
+#new_user_form input, #new_user_form textarea, #new_user_form select{
+    margin-bottom: 15px;
+}
